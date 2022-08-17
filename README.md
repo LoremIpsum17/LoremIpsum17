@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abidemi aka LoremIpsum
+- 👋 Hi, I’m Abidemi aka LoremIpsum, a Product Designer and Frontend developer
 - 👀 I’m interested in creating products that I love and others will enjoy
 - 🌱 I’m currently learning web & game development
 - 💞️ I’m looking to collaborate on ux/ui design, web and game development projects
