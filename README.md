@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abidemi aka LoremIpsum, a Customer Support Associate, Product Designer and Frontend developer
+- 👋 Hi, I’m Abidemi a.k.a LoremIpsum, a Project/Product Manager, Customer Support Associate, Product Designer and Frontend developer
 - 👀 I’m interested in creating the best user experience for my clients, through products and services
 - 🌱 I’m a philomath, I enjoy learning new facts and acquiring new knowledge
-- 💞️ I’m looking to collaborate on ux/ui design, web and game development projects
+- 💞️ I’m looking for opportunities in project and product management 
 - 📫 You can reach me on abidemirajimary@gmail.com
 
 <!---
